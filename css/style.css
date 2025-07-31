@@ -1,0 +1,46 @@
+/* styles.css */
+
+/* 1. body - font family and font size */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+}
+
+/* 2. header - background color */
+header {
+  background-color: #f0f8ff; /* لون فاتح مناسب للربيع */
+}
+
+/* 3. nav - background color */
+nav {
+  background-color: #dff0d8;
+}
+
+/* 4. main - background color and font size */
+main {
+  background-color: #ffffff;
+  font-size: 18px;
+}
+
+/* 5. footer - background color */
+footer {
+  background-color: #e0e0e0;
+}
+
+/* 6. li - display and width */
+li {
+  display: inline-block;
+  width: 150px;
+}
+
+/* 7. h1 - text alignment, font family, and color */
+h1 {
+  text-align: center;
+  font-family: 'Georgia', serif;
+  color: #2c3e50;
+}
+
+/* 8. p - line height */
+p {
+  line-height: 1.6;
+}
